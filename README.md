@@ -36,7 +36,7 @@ I contributed to the following parts of the project:
 
 Lê Nguyễn Nhật Minh - lnnm121103@gmail.com
 
-Project Link: [https://github.com/UIT21522338/PTDLKD](https://github.com/UIT21522338/PTDLKD)
+Project Link: [https://github.com/MinhLNN/PTDLKD](https://github.com/MinhLNN/PTDLKD)
 
 
 
